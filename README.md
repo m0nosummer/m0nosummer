@@ -1,16 +1,7 @@
-<!-- Profile README (Leaf Green ↔ Sakura Header, Dark Badges, Stats only) -->
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2E7D32,100:FF7EB6&section=header"
-    alt="header"
-  />
-</p>
-
 <!-- Kaomoji typing (2 lines) -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=900&center=true&vCenter=true&width=520&lines=%28%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6%29+.%E1%90%9F.%E1%90%9F;%E2%89%BD%5E%E2%80%A2%E2%A9%8A%E2%80%A2%5E%E2%89%BC"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=44&duration=2000&pause=900&center=true&vCenter=true&width=1000&color=FF1493&lines=%28%CB%B6%CB%83+%E1%B5%95+%CB%82%CB%B6%29+.%E1%90%9F.%E1%90%9F;%E2%89%BD%5E%E2%80%A2%E2%A9%8A%E2%80%A2%5E%E2%89%BC"
     alt="kaomoji"
   />
 </p>
