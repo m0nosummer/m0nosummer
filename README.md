@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://git.io/awesome-stats-card">
-    <img height="160" src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false" alt="My Awesome Stats" />
+    <img height="170" src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false" alt="My Awesome Stats" />
   </a>
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://solved.ac/todayyy">
