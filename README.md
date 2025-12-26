@@ -24,9 +24,6 @@
   <a href="mailto:YOUR_EMAIL@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-0F172A?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
-  <a href="YOUR_LINK">
-    <img src="https://img.shields.io/badge/Link-Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  </a>
 </p>
 
 ---
@@ -41,11 +38,6 @@
 ---
 
 ### Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=m0nosummer&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=111827&icon_color=111827" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nosummer&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=111827" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=m0nosummer&hide_border=true&background=FFFFFF&ring=111827&fire=111827&currStreakLabel=111827&sideLabels=111827&dates=111827" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nosummer)](https://github.com/m0nosummer/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy)](https://solved.ac/todayyy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0nosummer)](https://github.com/m0nosummer/github-readme-stats)
