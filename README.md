@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=csharp&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=ffffff" />
 </p>
 
 ---
