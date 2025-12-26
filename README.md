@@ -29,23 +29,23 @@
 ---
 
 <!-- Stats (2-column layout) -->
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://git.io/awesome-stats-card">
-        <img
-          src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false"
-          alt="My Awesome Stats"
-        />
-      </a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://solved.ac/todayyy">
-        <img
-          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy"
-          alt="Solved.ac"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display:inline-block; vertical-align:top; width:49%;">
+    <a href="https://git.io/awesome-stats-card">
+      <img
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false"
+        alt="My Awesome Stats"
+      />
+    </a>
+  </div>
+
+  <div style="display:inline-block; vertical-align:top; width:49%;">
+    <a href="https://solved.ac/todayyy">
+      <img
+        src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy"
+        alt="Solved.ac"
+      />
+    </a>
+  </div>
+</div>
+
