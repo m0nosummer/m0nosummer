@@ -32,7 +32,8 @@
   <a href="https://git.io/awesome-stats-card">
     <img height="190" src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false" alt="My Awesome Stats" />
   </a>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://solved.ac/todayyy">
-    <img height="200" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy" alt="Solved.ac" />
+    <img height="230" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy" alt="Solved.ac" />
   </a>
 </p>
