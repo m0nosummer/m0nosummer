@@ -38,5 +38,17 @@
 ---
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nosummer)](https://github.com/m0nosummer/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy)](https://solved.ac/todayyy)
+<p align="center">
+  <a href="https://github.com/m0nosummer">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=m0nosummer&show_icons=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/m0nosummer">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nosummer&layout=compact&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/todayyy">
+    <img height="160" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy" />
+  </a>
+</p>
