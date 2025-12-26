@@ -28,24 +28,32 @@
 
 ---
 
-<!-- Stats (2-column layout) -->
+<!-- Stats: 2 columns, centered, same height, no visible table -->
 <div align="center">
-  <div style="display:inline-block; vertical-align:top; width:49%;">
-    <a href="https://git.io/awesome-stats-card">
-      <img
-        src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false"
-        alt="My Awesome Stats"
-      />
-    </a>
-  </div>
+  <table border="0" cellpadding="0" cellspacing="0" style="border:none;">
+    <tr>
+      <td align="center" valign="middle" style="border:none; padding:0 10px;">
+        <a href="https://git.io/awesome-stats-card">
+          <img
+            src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false"
+            alt="My Awesome Stats"
+            height="180"
+            style="height:180px; width:auto;"
+          />
+        </a>
+      </td>
 
-  <div style="display:inline-block; vertical-align:top; width:49%;">
-    <a href="https://solved.ac/todayyy">
-      <img
-        src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy"
-        alt="Solved.ac"
-      />
-    </a>
-  </div>
+      <td align="center" valign="middle" style="border:none; padding:0 10px;">
+        <a href="https://solved.ac/todayyy">
+          <img
+            src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy"
+            alt="Solved.ac"
+            height="180"
+            style="height:180px; width:auto;"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
