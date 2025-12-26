@@ -38,6 +38,5 @@
 ---
 
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nosummer)](https://github.com/m0nosummer/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=m0nosummer)](https://github.com/m0nosummer/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy)](https://solved.ac/todayyy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m0nosummer)](https://github.com/m0nosummer/github-readme-stats)
