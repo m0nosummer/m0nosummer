@@ -28,18 +28,24 @@
 
 ---
 
-### Stats
-<p align="center">
-  <a href="https://github.com/m0nosummer">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=m0nosummer&show_icons=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/m0nosummer">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0nosummer&layout=compact&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://solved.ac/todayyy">
-    <img height="160" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy" />
-  </a>
-</p>
+<!-- Stats (2-column layout) -->
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://git.io/awesome-stats-card">
+        <img
+          src="https://awesome-github-stats.azurewebsites.net/user-stats/m0nosummer?cardType=github&theme=github-dark&fontFamily=JetBrains%20Mono&preferLogin=false"
+          alt="My Awesome Stats"
+        />
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://solved.ac/todayyy">
+        <img
+          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=todayyy"
+          alt="Solved.ac"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
